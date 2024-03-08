@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DobKonektor is an innovative web application designed to connect people based on their birthdates. Leveraging a unique concept, it facilitates meaningful interactions among users who share the same birth day, date, or year. This README provides an overview of the frontend component of the DobKonektor project, detailing its main features, technology stack, and useful links.
+DobKonektor is an innovative web application designed to connect people based on their birthdates. Leveraging a unique concept, it facilitates meaningful interactions among users who share the same birth day, date, or year. This README provides an overview of the backend component of the DobKonektor project, detailing its main features, technology stack, and useful links.
 
 ## Main Features
 
